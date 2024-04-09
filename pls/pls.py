@@ -6,7 +6,7 @@ from plspm.plspm import Plspm
 from plspm.scheme import Scheme
 
 # https://github.com/GoogleCloudPlatform/plspm-python/tree/trunk?tab=readme-ov-file#pls-pm-with-metric-data
-satisfaction = pd.read_csv("file:tests/data/satisfaction.csv", index_col=0)
+satisfaction = pd.read_csv("file:data/satisfaction.csv", index_col=0)
 
 structure = c.Structure()
 structure.add_path(["IMAG"], ["EXPE", "SAT", "LOY"])
