@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 plspm = "*"
 pandas = "<2"
+ipykernel = "*"
 
 [dev-packages]
 

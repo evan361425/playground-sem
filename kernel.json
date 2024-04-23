@@ -1,0 +1,14 @@
+{
+  "argv": [
+    ".venv/bin/python3",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "evan361425/playground-sem",
+  "language": "python",
+  "metadata": {
+    "debugger": true
+  }
+}
