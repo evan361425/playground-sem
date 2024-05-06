@@ -1,6 +1,6 @@
 # Playground of SEM
 
--   Partial Least Square Structural Equation Modeling
+- Partial Least Square Structural Equation Modeling
 
 ## Environment setup
 
@@ -22,7 +22,7 @@ python3 -m ipykernel install --user --name=.venv
 
 ![Corporate reputation structure](https://i.imgur.com/NWbhsWw.png)
 
--   CUSA, customer satisfaction
--   CUSL, customer loyalty
--   COMP, company's competence
--   LIKE, company's likeability
+- CUSA, customer satisfaction
+- CUSL, customer loyalty
+- COMP, company's competence
+- LIKE, company's likeability
